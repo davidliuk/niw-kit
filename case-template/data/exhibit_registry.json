@@ -1,0 +1,300 @@
+{
+  "schema_version": 1,
+  "series": [
+    {
+      "id": "A",
+      "title": "Identity and Current U.S. Status",
+      "order": 10,
+      "exhibits": [
+        {
+          "id": "A-1",
+          "title": "Passport Biographic Page",
+          "order": 1,
+          "file_path": "evidence/A/A-1_Passport_Biographic_Page.pdf",
+          "source": "{{ISSUING_COUNTRY}} government",
+          "date_display": "Valid through {{DATE}}",
+          "supports": "Identity and nationality"
+        },
+        {
+          "id": "A-2",
+          "title": "Current Immigration Status Document",
+          "order": 2,
+          "file_path": "evidence/A/A-2_Current_Status_Document.pdf",
+          "source": "USCIS / {{SCHOOL_OR_AGENCY}}",
+          "date_display": "{{DATE}}",
+          "supports": "Current lawful nonimmigrant status ({{STATUS}})"
+        },
+        {
+          "id": "A-3",
+          "title": "Form I-94 Arrival/Departure Record",
+          "order": 3,
+          "file_path": "evidence/A/A-3_I-94_Record.pdf",
+          "source": "U.S. Customs and Border Protection",
+          "date_display": "Retrieved {{DATE}}",
+          "supports": "Most recent admission and status"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Advanced Degree",
+      "order": 20,
+      "exhibits": [
+        {
+          "id": "B-1",
+          "title": "{{DEGREE_NAME}} Diploma",
+          "order": 1,
+          "file_path": "evidence/B/B-1_Advanced_Degree_Diploma.pdf",
+          "source": "{{UNIVERSITY}}",
+          "date_display": "Conferred {{DATE}}",
+          "supports": "EB-2 advanced-degree threshold"
+        },
+        {
+          "id": "B-2",
+          "title": "Official Transcript",
+          "order": 2,
+          "file_path": "evidence/B/B-2_Official_Transcript.pdf",
+          "source": "{{UNIVERSITY}}",
+          "date_display": "Issued {{DATE}}",
+          "supports": "Degree field and completion"
+        },
+        {
+          "id": "B-3",
+          "title": "Credential Evaluation",
+          "order": 3,
+          "file_path": "evidence/B/B-3_Credential_Evaluation.pdf",
+          "source": "{{EVALUATION_SERVICE}}",
+          "date_display": "{{DATE}}",
+          "supports": "U.S. equivalency of a foreign degree (omit if the degree is from a U.S. institution)"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Employment and Professional Experience",
+      "order": 30,
+      "exhibits": [
+        {
+          "id": "C-1",
+          "title": "Current Employment Verification Letter",
+          "order": 1,
+          "file_path": "evidence/C/C-1_Current_Employment_Verification.pdf",
+          "source": "{{EMPLOYER}}",
+          "date_display": "Issued {{DATE}}",
+          "supports": "Current role, duties, and dates"
+        },
+        {
+          "id": "C-2",
+          "title": "Prior Experience Verification Letter",
+          "order": 2,
+          "file_path": "evidence/C/C-2_Prior_Experience_Verification.pdf",
+          "source": "{{PRIOR_EMPLOYER}}",
+          "date_display": "Issued {{DATE}}",
+          "supports": "Prior role, duties, and dates"
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "title": "Publications, Citations, and Research Output",
+      "order": 40,
+      "exhibits": [
+        {
+          "id": "D-1",
+          "title": "{{LEAD_PUBLICATION_TITLE}}",
+          "order": 1,
+          "file_path": "evidence/D/D-1_Lead_Publication.pdf",
+          "source": "{{VENUE}}",
+          "date_display": "{{DATE}}",
+          "supports": "Applicant's lead work and its contribution"
+        },
+        {
+          "id": "D-2",
+          "title": "{{SECOND_PUBLICATION_TITLE}}",
+          "order": 2,
+          "file_path": "evidence/D/D-2_Second_Publication.pdf",
+          "source": "{{VENUE}}",
+          "date_display": "{{DATE}}",
+          "supports": "Continued record in the endeavor's area"
+        },
+        {
+          "id": "D-3",
+          "title": "Citation Record Capture",
+          "order": 3,
+          "file_path": "evidence/D/D-3_Citation_Record.pdf",
+          "source": "{{GOOGLE_SCHOLAR_OR_SEMANTIC_SCHOLAR}}",
+          "date_display": "Captured {{DATE}}",
+          "supports": "Citation counts with a dated snapshot"
+        },
+        {
+          "id": "D-4",
+          "title": "Citing Works Showing Use of the Applicant's Work",
+          "order": 4,
+          "file_path": "evidence/D/D-4_Citing_Works_Showing_Use.pdf",
+          "source": "Independent research groups (see table)",
+          "date_display": "Captured {{DATE}}",
+          "supports": "Independent third parties used, built on, or compared against the work"
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Adoption, Use, and Impact",
+      "order": 50,
+      "exhibits": [
+        {
+          "id": "E-1",
+          "title": "Adoption and Usage Evidence",
+          "order": 1,
+          "file_path": "evidence/E/E-1_Adoption_and_Usage.pdf",
+          "source": "{{SOURCE}}",
+          "date_display": "Captured {{DATE}}",
+          "supports": "Specific stakeholders adopted, deployed, or integrated the work"
+        },
+        {
+          "id": "E-2",
+          "title": "Independent Coverage of the Work",
+          "order": 2,
+          "file_path": "evidence/E/E-2_Independent_Coverage.pdf",
+          "source": "{{PUBLICATION}}",
+          "date_display": "{{DATE}}",
+          "supports": "Third-party attention to the applicant's specific work"
+        },
+        {
+          "id": "E-3",
+          "title": "Invitations to Present",
+          "order": 3,
+          "file_path": "evidence/E/E-3_Invitations_to_Present.pdf",
+          "source": "{{INVITING_ORGANIZATION}}",
+          "date_display": "{{DATE}}",
+          "supports": "Field interest in the applicant's work"
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "title": "Peer Review and Judging",
+      "order": 60,
+      "exhibits": [
+        {
+          "id": "F-1",
+          "title": "Peer Review Invitations and Completion Records",
+          "order": 1,
+          "file_path": "evidence/F/F-1_Peer_Review_Records.pdf",
+          "source": "{{VENUE_OR_JOURNAL}}",
+          "date_display": "{{DATE_RANGE}}",
+          "supports": "Recognized expertise used to evaluate others' work"
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "Objective National-Importance Context",
+      "order": 70,
+      "exhibits": [
+        {
+          "id": "G-1",
+          "title": "{{GOVERNMENT_REPORT_TITLE}}",
+          "order": 1,
+          "file_path": "evidence/G/G-1_Government_Report.pdf",
+          "source": "{{AGENCY}}",
+          "date_display": "{{DATE}}",
+          "supports": "U.S. government priority that the specific endeavor advances"
+        },
+        {
+          "id": "G-2",
+          "title": "{{ADDITIONAL_CONTEXT_TITLE}}",
+          "order": 2,
+          "file_path": "evidence/G/G-2_Additional_Context.pdf",
+          "source": "{{AGENCY_OR_ORGANIZATION}}",
+          "date_display": "{{DATE}}",
+          "supports": "Program, funding call, or policy tied to the endeavor"
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "title": "Applicant Statements and Curriculum Vitae",
+      "order": 80,
+      "exhibits": [
+        {
+          "id": "H-1",
+          "title": "Statement of Proposed Endeavor",
+          "order": 1,
+          "file_path": "workproduct/02_Proposed_Endeavor_Statement.md",
+          "source": "{{APPLICANT_FULL_NAME}}",
+          "date_display": "Signed {{DATE}}",
+          "supports": "Definition of the endeavor and the plan to advance it"
+        },
+        {
+          "id": "H-2",
+          "title": "Personal Statement",
+          "order": 2,
+          "file_path": "workproduct/03_Personal_Statement.md",
+          "source": "{{APPLICANT_FULL_NAME}}",
+          "date_display": "Signed {{DATE}}",
+          "supports": "Background, motivation, and record in the applicant's words"
+        },
+        {
+          "id": "H-3",
+          "title": "Curriculum Vitae",
+          "order": 3,
+          "file_path": "evidence/H/H-3_Curriculum_Vitae.pdf",
+          "source": "{{APPLICANT_FULL_NAME}}",
+          "date_display": "{{DATE}}",
+          "supports": "Education, positions, publications, and service"
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "Letters",
+      "order": 90,
+      "exhibits": [
+        {
+          "id": "I-1",
+          "title": "Letter from {{INDEPENDENT_EXPERT_NAME}}",
+          "order": 1,
+          "file_path": "evidence/I/I-1_Independent_Expert_Letter.pdf",
+          "source": "{{EXPERT_TITLE_AND_INSTITUTION}}",
+          "date_display": "Signed {{DATE}}",
+          "supports": "Independent, firsthand assessment of the applicant's specific contributions"
+        },
+        {
+          "id": "I-2",
+          "title": "Letter from {{COLLABORATOR_NAME}}",
+          "order": 2,
+          "file_path": "evidence/I/I-2_Collaborator_Letter.pdf",
+          "source": "{{COLLABORATOR_TITLE_AND_INSTITUTION}}",
+          "date_display": "Signed {{DATE}}",
+          "supports": "Firsthand account of the applicant's role and results"
+        },
+        {
+          "id": "I-3",
+          "title": "Letter from {{USER_OR_INDUSTRY_NAME}}",
+          "order": 3,
+          "file_path": "evidence/I/I-3_User_or_Industry_Letter.pdf",
+          "source": "{{ORGANIZATION}}",
+          "date_display": "Signed {{DATE}}",
+          "supports": "How a stakeholder uses or plans to use the work"
+        }
+      ]
+    },
+    {
+      "id": "J",
+      "title": "Awards and Recognition",
+      "order": 100,
+      "exhibits": [
+        {
+          "id": "J-1",
+          "title": "{{AWARD_NAME}}",
+          "order": 1,
+          "file_path": "evidence/J/J-1_Award.pdf",
+          "source": "{{GRANTING_ORGANIZATION}}",
+          "date_display": "{{DATE}}",
+          "supports": "Recognition of the applicant's work"
+        }
+      ]
+    }
+  ]
+}

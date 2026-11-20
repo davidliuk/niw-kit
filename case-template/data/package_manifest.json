@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "artifacts": [
+    {
+      "path": "workproduct/04_Officer_Roadmap.md",
+      "display_title": "Roadmap to the Record",
+      "artifact_class": "FILING_FACING",
+      "include_in_review_packet": true,
+      "clean_copy_ruleset": "FILING_V2",
+      "packet_order": 5
+    },
+    {
+      "path": "workproduct/01_Petition_Letter.md",
+      "display_title": "Petition Letter",
+      "artifact_class": "FILING_FACING",
+      "include_in_review_packet": true,
+      "clean_copy_ruleset": "FILING_V2",
+      "packet_order": 10
+    },
+    {
+      "path": "workproduct/02_Proposed_Endeavor_Statement.md",
+      "display_title": "Statement of Proposed Endeavor",
+      "artifact_class": "FILING_FACING",
+      "include_in_review_packet": true,
+      "clean_copy_ruleset": "FILING_V2",
+      "packet_order": 20
+    },
+    {
+      "path": "workproduct/03_Personal_Statement.md",
+      "display_title": "Personal Statement",
+      "artifact_class": "FILING_FACING",
+      "include_in_review_packet": true,
+      "clean_copy_ruleset": "FILING_V2",
+      "packet_order": 30
+    },
+    {
+      "path": "workproduct/05_Exhibit_List_and_Evidence_Map.md",
+      "display_title": "Exhibit List and Evidence Map",
+      "artifact_class": "FILING_FACING",
+      "include_in_review_packet": true,
+      "clean_copy_ruleset": "FILING_V2",
+      "packet_order": 50
+    },
+    {
+      "path": "workproduct/06_Claim_Evidence_Ledger.md",
+      "display_title": "Claim-Evidence Ledger",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/07_Factual_Verification_Questionnaire.md",
+      "display_title": "Factual Verification Questionnaire",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/08_Evidence_Request_List.md",
+      "display_title": "Evidence Request List",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/09_Forms_and_Assembly_Checklist.md",
+      "display_title": "Forms and Assembly Checklist",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/10_Online_I140_Filing_Control.md",
+      "display_title": "Online I-140 Filing Control",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/11_Required_Forms_Worksheet.md",
+      "display_title": "Required Forms Worksheet",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/12_Final_Readiness_Matrix.md",
+      "display_title": "Final Readiness Matrix",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/13_Filing_Closeout_Runbook.md",
+      "display_title": "Filing Closeout Runbook",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/14_Adversarial_Self_Review.md",
+      "display_title": "Adversarial Self-Review",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/15_AAO_Stress_Test.md",
+      "display_title": "AAO Stress Test",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    },
+    {
+      "path": "workproduct/16_RFE_Readiness_Plan.md",
+      "display_title": "RFE Readiness Plan",
+      "artifact_class": "PRIVATE_CONTROL",
+      "include_in_review_packet": false,
+      "clean_copy_ruleset": "PRIVATE_V2",
+      "packet_order": null
+    }
+  ]
+}

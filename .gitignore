@@ -1,0 +1,21 @@
+# Generated output and caches
+.tmp/
+.venv/
+__pycache__/
+cases/*/output/
+
+# Private material never enters Git: originals, identity documents,
+# form prefills, and every evidence payload.
+cases/*/source_documents/
+cases/*/private/
+cases/*/evidence/
+cases/*/archive/
+*.pdf
+*.PDF
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.docx
+.env

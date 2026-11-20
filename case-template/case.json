@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "case_id": "applicant-eb2-niw",
+  "applicant_name": "{{APPLICANT_FULL_NAME}}",
+  "packet_title": "{{APPLICANT_FULL_NAME}} EB-2 NIW Petition",
+  "manifest": "data/package_manifest.json",
+  "registry": "data/exhibit_registry.json",
+  "petition": "workproduct/01_Petition_Letter.md",
+  "exhibit_index_source": "workproduct/05_Exhibit_List_and_Evidence_Map.md",
+  "output_dir": "output",
+  "upload_limit_bytes": 11500000,
+  "locked_phrases": [
+    {
+      "name": "proposed endeavor (one sentence)",
+      "text": "{{PROPOSED_ENDEAVOR_ONE_SENTENCE}}",
+      "files": [
+        "workproduct/01_Petition_Letter.md",
+        "workproduct/02_Proposed_Endeavor_Statement.md",
+        "workproduct/04_Officer_Roadmap.md"
+      ]
+    }
+  ]
+}

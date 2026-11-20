@@ -1,0 +1,11 @@
+papersize: us-letter
+fontsize: 11.5pt
+mainfont: Times New Roman
+codefont: Menlo
+page-numbering: "1"
+margin:
+  top: 0.78in
+  bottom: 0.78in
+  left: 0.85in
+  right: 0.85in
+linkcolor: "1f4e79"
